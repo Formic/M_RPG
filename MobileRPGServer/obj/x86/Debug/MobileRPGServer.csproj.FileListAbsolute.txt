@@ -1,0 +1,5 @@
+c:\users\formic\documents\visual studio 2010\Projects\MobileRPGServer\MobileRPGServer\bin\Debug\MobileRPGServer.exe
+c:\users\formic\documents\visual studio 2010\Projects\MobileRPGServer\MobileRPGServer\bin\Debug\MobileRPGServer.pdb
+c:\users\formic\documents\visual studio 2010\Projects\MobileRPGServer\MobileRPGServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\formic\documents\visual studio 2010\Projects\MobileRPGServer\MobileRPGServer\obj\x86\Debug\MobileRPGServer.exe
+c:\users\formic\documents\visual studio 2010\Projects\MobileRPGServer\MobileRPGServer\obj\x86\Debug\MobileRPGServer.pdb

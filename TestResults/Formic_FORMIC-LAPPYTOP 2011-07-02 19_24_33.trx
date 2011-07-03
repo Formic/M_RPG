@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="cd06e014-eb17-428f-96ff-d24a1f820d94" name="Formic@FORMIC-LAPPYTOP 2011-07-02 19:24:33" runUser="Formic-LappyTop\Formic" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="43439a20-cdf6-451e-a056-371414001b66">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Formic_FORMIC-LAPPYTOP 2011-07-02 19_24_33" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-07-02T19:24:33.1568324-06:00" queuing="2011-07-02T19:24:33.1708332-06:00" start="2011-07-02T19:24:33.2018349-06:00" finish="2011-07-02T19:24:54.5360552-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MultiUserMoveTest" storage="c:\users\formic\documents\visual studio 2010\projects\mobilerpgserver\mobilerpgservertest\bin\debug\mobilerpgservertest.dll" id="6c757bea-d7ad-4314-9831-72ebccf64b53">
+      <Execution id="7c0fafd6-417d-4ffe-9e34-ba0d3bb70391" />
+      <TestMethod codeBase="C:/Users/Formic/Documents/Visual Studio 2010/Projects/MobileRPGServer/MobileRPGServerTest/bin/Debug/MobileRPGServerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MobileRPGServerTest.MobileRPGServerTest, MobileRPGServerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiUserMoveTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6c757bea-d7ad-4314-9831-72ebccf64b53" executionId="7c0fafd6-417d-4ffe-9e34-ba0d3bb70391" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7c0fafd6-417d-4ffe-9e34-ba0d3bb70391" testId="6c757bea-d7ad-4314-9831-72ebccf64b53" testName="MultiUserMoveTest" computerName="FORMIC-LAPPYTOP" duration="00:00:21.0847049" startTime="2011-07-02T19:24:33.2068352-06:00" endTime="2011-07-02T19:24:54.5130539-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c0fafd6-417d-4ffe-9e34-ba0d3bb70391">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Fail failed. Player 8 did not connect.</Message>
+          <StackTrace>   at MobileRPGServerTest.MobileRPGServerTest.MultiUserMoveTest() in C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\MobileRPGServerTest.cs:line 40
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

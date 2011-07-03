@@ -1,0 +1,7 @@
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\bin\Debug\MobileRPGServerTest.dll
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\bin\Debug\MobileRPGServerTest.pdb
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\obj\Debug\MobileRPGServerTest.dll
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\obj\Debug\MobileRPGServerTest.pdb
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\bin\Debug\MobileRPGServer.exe
+C:\Users\Formic\Documents\Visual Studio 2010\Projects\MobileRPGServer\MobileRPGServerTest\bin\Debug\MobileRPGServer.pdb
